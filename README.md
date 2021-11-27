@@ -154,6 +154,7 @@ wsa://com.android.settings
 | Honkai Impact 3rd| 5.1.0 | ⚠️ | Poor graphics quality |
 | HTV (hanime tv) | 3.6.7 | ⚠️ | Failed to play video | Internal player don't work, asks for external player and fails again |
 | Huawei AppGallery  | 11.4.2.300 | ✅ | Frequent crashes were experienced, otherwise the app functionality is fine ||
+| Hungry Shark Evolution | Latest | ✅ | Working Flawlessly ||
 | Hyper Square | 3.0.1 | ✅ ||
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64 |
 | iOS app (any) | | ❌ | Thanks for testing, Brad. |
